@@ -6,6 +6,7 @@ The digits stand for 0 to 9, followed by 10, 100, 1000 and 10,000.
 
 ## Dataset
 Size: 15000 rows (12000 train, 1500 test, 1500 validation)
+resolution: Each image is 64 x 64 pixels, in grayscale. Each of the 4096 pixels is a column itself in the dataset.
 
 ![Screenshot 2025-06-09 at 10 27 29 AM](https://github.com/user-attachments/assets/176b717f-b38c-4950-9c62-b3cd0ac20f70)
 
